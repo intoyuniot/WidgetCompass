@@ -1,0 +1,17 @@
+{
+    "name": "WidgetCompass",
+    "version": "1.0.0",
+    "keywords": "Widget,Compass",
+    "description": "指南针应用库",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/intoyuniot/WidgetCompass.git"
+    },
+    "authors": {
+        "name": "robin",
+        "email": "robin@molmc.com"
+    },
+    "frameworks": "arduino",
+    "platforms": "*"
+}
+
